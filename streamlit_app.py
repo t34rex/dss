@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 st.title("DiRA: Disaster Response Assistance")
 st.write("A Decision Support System for better Disaster Response Management.")
